@@ -92,7 +92,7 @@ This project is released under the MIT License.
 
 ## 👤 Author
 Axel Behrendt
-Data analysis · Time-series · Scientific Python
+Data analysis · Time-series · Scientific Python  
 Parts of the development as well as the debugging were supported by ChatGPT 5.2.
 
 
