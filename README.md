@@ -57,10 +57,10 @@ This project was built to:
 
 ## 🗂️ Project Structure
 
-├── energy_app.py # Main Streamlit application
-├── data/ # Local data (ignored in Git)
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
+├── energy_app.py # Main Streamlit application  
+├── data/ # Local data (ignored in Git)  
+├── requirements.txt # Python dependencies  
+├── README.md # Project documentation  
 └── .gitignore
 
 ---
