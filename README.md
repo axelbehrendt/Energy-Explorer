@@ -1,5 +1,7 @@
 # Energy Explorer – Interactive Time-Series Analysis Dashboard
 
+![Dashboard Preview](dashboard.png)
+
 **Energy Explorer** is an interactive data analysis dashboard for exploring
 global energy consumption, electricity generation, and emissions data
 from **Our World in Data**.
